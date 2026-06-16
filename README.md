@@ -1,2 +1,28 @@
-# corporate-training-ld-project-management-and-team-collaboration-notion-template
-Kanban boards, timeline views, resource allocation, and automatic status updates. Notion-native alternative to Asana/Monday.com.
+# Corporate Training & L&D Project Management and Team Collaboration Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq9AT4ePbUE1debzSd0l3L)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq9AT4ePbUE1debzSd0l3L)
+
